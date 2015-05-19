@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-build",
+  "name": "clamcore-build",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore modules'",
+  "description": "A helper for common tasks to build clamcore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/daxxog/clamcore-build"
   },
   "keywords": [
-    "bitcore"
+    "clamcore"
   ],
   "contributors": [
     {
@@ -29,13 +29,17 @@
     {
       "name": "Yemel Jardi",
       "email": "yemel@bitpay.com"
+    },
+    {
+      "name": "David Volm",
+      "email": "david@volminator.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-build/issues"
+    "url": "https://github.com/daxxog/clamcore-build/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-build",
+  "homepage": "https://github.com/daxxog/clamcore-build",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~6.3.3",
